@@ -9,6 +9,7 @@ cireating a new branch is quick~master
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 creating a new branch is quick~master
 =======
 creating a new branch is quick add simple
@@ -19,4 +20,7 @@ creating a new branch is quick add simple
 
 
 =======
+>>>>>>> dev
+=======
+修改Dev，查看提交记录
 >>>>>>> dev
