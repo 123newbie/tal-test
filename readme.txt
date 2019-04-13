@@ -24,3 +24,5 @@ creating a new branch is quick add simple
 =======
 修改Dev，查看提交记录
 >>>>>>> dev
+修改完bug，提交master分之
+
